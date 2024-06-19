@@ -50,7 +50,7 @@ To run this project, follow these steps:
 
 
 ## Libraries Used
-Numpy:
+* Numpy:
 Used for a variety of mathematical operations on arrays. It is efficient and fast.
 
 * TensorFlow:
