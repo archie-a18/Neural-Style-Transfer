@@ -6,7 +6,7 @@ Neural Style Transfer (NST) is a technique that allows combining the content of 
 Neural Style Transfer (NST) leverages Convolutional Neural Networks (CNNs), particularly using pre-trained models like VGG-19, to perform style transfer by optimizing the pixel values of the input image.
 
 ## Table of Contents
-Content and Style Images
+* Content and Style Images
 Feature Extraction
 Gram Matrix
 Loss Function
