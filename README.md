@@ -7,17 +7,17 @@ Neural Style Transfer (NST) leverages Convolutional Neural Networks (CNNs), part
 
 ## Table of Contents
 * Content and Style Images
-Feature Extraction
-Gram Matrix
-Loss Function
-Generating the Stylized Image
-Installation
-Libraries Used
-Usage
-Examples
-Author
-Content and Style Images
-Content Image:
+* Feature Extraction
+* Gram Matrix
+* Loss Function
+* Generating the Stylized Image
+* Installation
+* Libraries Used
+* Usage
+* Examples
+* Author
+* Content and Style Images
+* Content Image:
 
 Style Image:
 
