@@ -71,14 +71,22 @@ Python Imaging Library, used for opening, manipulating, and saving different ima
 ## Examples
 The following is an example of a style transfer result using this project:
 
-Original Images:
 
 Content Image:
 
+
+![eiffel tower](https://github.com/archie-a18/Neural-Style-Transfer/assets/121401662/24c4bc50-b78a-487f-b864-1d9813cfad84)
+
+
 Style Image:
-![images (1)](https://github.com/archie-a18/Neural-Style-Transfer/assets/121401662/9b747cdd-3e58-4648-bec3-ae15690fa8c0)
+
+
+![stary](https://github.com/archie-a18/Neural-Style-Transfer/assets/121401662/ac9795cf-f1d3-4fa5-929b-2ad91020876d)
 
 Result:
+
+![20](https://github.com/archie-a18/Neural-Style-Transfer/assets/121401662/3224b555-51f5-4448-99b9-14954e73ad28)
+
 
 Author
 Archie Agarwal - If you have any questions or suggestions, feel free to contact me at archie_agarwal@domain.com.
