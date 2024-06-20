@@ -68,20 +68,5 @@ Python Imaging Library, used for opening, manipulating, and saving different ima
 ## Examples
 The following is an example of a style transfer result using this project:
 
-
-Content Image:
-
-
-Style Image:
-
-![stary](https://github.com/archie-a18/Neural-Style-Transfer/assets/121401662/ac9795cf-f1d3-4fa5-929b-2ad91020876d =250x250)
-
-
-
-
-Result:
-
-
-
 Author
 Archie Agarwal - If you have any questions or suggestions, feel free to contact me at archie04agarwal@gmail.com
