@@ -6,22 +6,19 @@ Neural Style Transfer (NST) is a technique that allows combining the content of 
 Neural Style Transfer (NST) leverages Convolutional Neural Networks (CNNs), particularly using pre-trained models like VGG-19, to perform style transfer by optimizing the pixel values of the input image.
 
 ## Table of Contents
-* Content and Style Images
 * Feature Extraction
 * Gram Matrix
 * Loss Function
 * Generating the Stylized Image
 * Installation
 * Libraries Used
-* Usage
 * Examples
+*  Content and Style Images
+* Content Image
+* Style Image
+* Result
 * Author
-* Content and Style Images
-* Content Image:
 
-Style Image:
-
-Result:
 
 ## Feature Extraction
 Feature extraction is performed using a pre-trained VGG-19 model to get the content and style representations of the images. These features are then used to compute the content and style losses.
@@ -75,18 +72,13 @@ The following is an example of a style transfer result using this project:
 Content Image:
 
 
-![eiffel tower](https://github.com/archie-a18/Neural-Style-Transfer/assets/121401662/24c4bc50-b78a-487f-b864-1d9813cfad84)
-
-
 Style Image:
 
 
-![stary](https://github.com/archie-a18/Neural-Style-Transfer/assets/121401662/ac9795cf-f1d3-4fa5-929b-2ad91020876d)
 
 Result:
 
-![20](https://github.com/archie-a18/Neural-Style-Transfer/assets/121401662/3224b555-51f5-4448-99b9-14954e73ad28)
 
 
 Author
-Archie Agarwal - If you have any questions or suggestions, feel free to contact me at archie_agarwal@domain.com.
+Archie Agarwal - If you have any questions or suggestions, feel free to contact me at archie04agarwal@gmail.com
