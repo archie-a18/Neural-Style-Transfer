@@ -74,7 +74,7 @@ Content Image:
 
 Style Image:
 
-![stary](https://github.com/archie-a18/Neural-Style-Transfer/assets/121401662/ac9795cf-f1d3-4fa5-929b-2ad91020876d | width=100)
+![stary](https://github.com/archie-a18/Neural-Style-Transfer/assets/121401662/ac9795cf-f1d3-4fa5-929b-2ad91020876d =250x250)
 
 
 
