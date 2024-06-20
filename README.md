@@ -19,8 +19,7 @@ Neural Style Transfer (NST) leverages Convolutional Neural Networks (CNNs), part
 * Content and Style Images
 * Content Image:
 
-Style Image:![images (1)](https://github.com/archie-a18/Neural-Style-Transfer/assets/121401662/9b747cdd-3e58-4648-bec3-ae15690fa8c0)
-
+Style Image:
 
 Result:
 
@@ -77,6 +76,7 @@ Original Images:
 Content Image:
 
 Style Image:
+![images (1)](https://github.com/archie-a18/Neural-Style-Transfer/assets/121401662/9b747cdd-3e58-4648-bec3-ae15690fa8c0)
 
 Result:
 
